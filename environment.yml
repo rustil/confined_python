@@ -17,4 +17,7 @@ dependencies:
   - pip
   - pillow
   - tqdm
-  
+  - uncertainties
+  - ffmpeg
+  - sympy
+  - uproot
