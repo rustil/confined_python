@@ -9,6 +9,10 @@ Binder without CERN's ROOT (to speed up the build):
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rustil/confined_python/master_noROOT)
 
+Binder without CERN's ROOT but with working latex distribution:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rustil/confined_python/master_wLatex)
+
 
 Introduction to scientific python for people living in confinement (and maybe also other people)
 
